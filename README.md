@@ -1,1 +1,2 @@
-# drt-go-chain-sovereign-notifier
+# drt-chain-sovereign-notifier-go
+Event notifier for sovereign chain
